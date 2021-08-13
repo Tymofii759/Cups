@@ -1,0 +1,75 @@
+body {
+  background-color: #fdde77;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.bronze {
+  background-color: #fff;
+  border: #fff;
+  border-radius: 3px;
+  width: 500px;
+  height: 550px;
+  align-items: center;
+  text-align: center;
+}
+.gold {
+  background-color: #fff;
+  border: #fff;
+  border-radius: 3px;
+  width: 400px;
+  height: 650px;
+  align-items: center;
+  text-align: center;
+}
+.silver {
+  background-color: #fff;
+  border: #fff;
+  border-radius: 3px;
+  width: 500px;
+  height: 550px;
+  align-items: center;
+  text-align: center;
+}
+
+.bronze-img {
+  background-image: url(./img-main/cup-bronze.png);
+  margin-left: 190px;
+  margin-bottom: 70px;
+  height: 77px;
+  width: 135px;
+}
+.gold-img {
+  background-image: url(./img-main/cup-gold.png);
+  margin-left: 140px;
+  margin-bottom: 70px;
+  height: 77px;
+  width: 135px;
+}
+.silver-img {
+  background-image: url(./img-main/cup-silver.png);
+  margin-left: 190px;
+  margin-bottom: 70px;
+  height: 77px;
+  width: 135px;
+}
+.text {
+  font-size: 50px;
+  color: #0c9c61;
+}
+.name {
+  font-size: 40px;
+  margin-bottom: 70px;
+}
+.p-text {
+  font-size: 22px;
+}
+.smoke {
+  margin-bottom: 30px;
+}
+.bean {
+  margin-right: 15px;
+  margin-top: 10px;
+}
